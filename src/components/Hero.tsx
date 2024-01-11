@@ -103,7 +103,7 @@ export function Hero() {
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
                 className='bg-cyan-500'
-                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                href="mailto:ai@reread.news"
                 variant="outline"
               >
                 <span className="text-white font-bold">Start Today</span>
