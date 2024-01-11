@@ -96,9 +96,7 @@ export function Hero() {
               Save your links to <b className="text-cyan-500">ReRead</b> later
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              By leveraging insights from our network of industry insiders,
-              you’ll know exactly when to buy to maximize profit, and exactly
-              when to sell to avoid painful losses.
+              How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyass to come back to later, well never again!
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
