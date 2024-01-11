@@ -14,16 +14,11 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-md sm:text-center">
           <h2 className="text-3xl font-medium tracking-tight text-white sm:text-4xl">
-            Get your first tips today
+            No signup, no cost
           </h2>
           <p className="mt-4 text-lg text-gray-300">
-            It takes 30 seconds to sign up. Download the app and create an
-            account today and we’ll send you a tip guaranteed to double your
-            first investment.
+            Simply start sending links to ai@reread.news!
           </p>
-          <div className="mt-8 flex justify-center">
-            <AppStoreLink color="white" />
-          </div>
         </div>
       </Container>
     </section>
