@@ -29,7 +29,7 @@ export function Footer() {
             &copy; Copyright {new Date().getFullYear()}. All rights reserved.
           </p>
           <Link href="/" aria-label="Home">
-            <Logo className="h-10 w-auto" />
+            <Logo />
           </Link>
         </div>
       </Container>
