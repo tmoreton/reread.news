@@ -20,7 +20,7 @@ const features = [
     icon: facebook,
   },
   {
-    name: 'twitter',
+    name: 'Twitter',
     description: '',
     icon: twitter,
   },
@@ -54,7 +54,7 @@ export function SecondaryFeatures() {
             Never forget a link again
           </h2>
           <p className="mt-2 text-lg text-gray-600">
-            Share links to ai@reread.news from multiple sources
+            Share links from multiple sources to get a one easy to read weekly recap right in your email inbox. No more apps or complicated sign ups.
           </p>
         </div>
         <ul

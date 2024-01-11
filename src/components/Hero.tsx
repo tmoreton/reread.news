@@ -98,6 +98,9 @@ export function Hero() {
             <p className="mt-6 text-lg text-gray-600">
               How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyass to come back to later, well never again!
             </p>
+            <p className="mt-6 text-lg text-gray-600">
+              It's easy to start, just email any links to <b>ai@reread.news</b>, that's it!
+            </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
                 className='bg-cyan-500'
