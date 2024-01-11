@@ -10,13 +10,13 @@ const faqs = [
   [
     {
       question: 'How do I see what links I sent?',
-      answer: 'Simply email ai@reread.news with a subject line of: REREAD',
+      answer: 'Simply email ai@reread.news with a subject line of: <b>REREAD</b>',
     },
   ],
   [
     {
-      question: 'How many links can I send?',
-      answer: '1 per email but an unlimited amount of emails',
+      question: 'When will I get the weekly recap?',
+      answer: 'It will come every sunday morning, just like your weekly newspaper. People still read those right..',
     },
   ],
 ]
