@@ -75,7 +75,7 @@ function BackgroundIllustration(props: React.ComponentPropsWithoutRef<'div'>) {
 
 export function Hero() {
   return (
-    <div className="overflow-hidden py-20 sm:py-32 lg:pb-32 xl:pb-36">
+    <div className="overflow-hidden py-10 sm:py-32 lg:pb-32 xl:pb-36">
       <Container>
         <div className="lg:grid lg:grid-cols-12 lg:gap-x-8 lg:gap-y-20">
           <div className="relative z-10 mx-auto max-w-2xl lg:col-span-7 lg:max-w-none lg:pt-6 xl:col-span-6">
@@ -88,12 +88,12 @@ export function Hero() {
             <p className="mt-6 text-lg text-gray-600">
               <b>Step #1</b>
               <br/>
-              <span className="ml-5 text-md">Email any links to <b>save@reread.news</b></span>
+              <span className="text-md">Email any links to <b>save@reread.news</b></span>
             </p>
             <p className="text-lg text-gray-600">
               <b>Step #2</b>
               <br/>
-              <span className="ml-5 text-md">Automatically receive your Weekly Recap email every Sunday</span>
+              <span className="text-md">Automatically receive your Weekly Recap email every Sunday</span>
             </p>
             <p className="mt-6 text-md text-gray-600">
               <b>Want it earlier?</b> 
