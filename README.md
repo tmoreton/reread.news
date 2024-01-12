@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-Just send links to ai@reread.news
+Just send links to save@reread.news

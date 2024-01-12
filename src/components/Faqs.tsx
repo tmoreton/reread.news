@@ -10,7 +10,7 @@ const faqs = [
   [
     {
       question: 'How do I see what links I sent?',
-      answer: 'Simply email ai@reread.news with a subject line of: REREAD',
+      answer: 'Simply email send@reread.news',
     },
   ],
   [
@@ -40,7 +40,7 @@ export function Faqs() {
           <p className="mt-2 text-lg text-gray-600">
             If you have anything else you want to ask,{' '}
             <a
-              href="mailto:ai@reread.news"
+              href="mailto:hello@reread.news"
               className="text-gray-900 underline"
             >
               reach out to us

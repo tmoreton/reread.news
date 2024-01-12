@@ -17,7 +17,7 @@ export function CallToAction() {
             No signup, no cost
           </h2>
           <p className="mt-4 text-lg text-gray-300">
-            Simply start sending links to ai@reread.news!
+            Simply start sending links to save@reread.news!
           </p>
         </div>
       </Container>

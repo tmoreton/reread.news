@@ -86,12 +86,12 @@ export function Hero() {
               How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyss, well never again!
             </p>
             <p className="mt-6 text-lg text-gray-600">
-              It is easy to start, just email any links to <b>ai@reread.news</b>, that is it!
+              It is easy to start, just email any links to <b>save@reread.news</b>, that is it!
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
                 className='bg-cyan-500'
-                href="mailto:ai@reread.news"
+                href="mailto:save@reread.news"
                 variant="outline"
               >
                 <span className="text-white font-bold">Start Today</span>
