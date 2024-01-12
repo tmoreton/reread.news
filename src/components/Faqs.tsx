@@ -9,14 +9,14 @@ const faqs = [
   ],
   [
     {
-      question: 'How do I see what links I sent?',
-      answer: 'Simply email send@reread.news',
+      question: 'When will I get the weekly recap?',
+      answer: 'It will come every sunday morning, just like your weekly newspaper. People still read those right..',
     },
   ],
   [
     {
-      question: 'When will I get the weekly recap?',
-      answer: 'It will come every sunday morning, just like your weekly newspaper. People still read those right..',
+      question: 'What if I want to see my recap earlier?',
+      answer: 'No problem, just email send@reread.news to get it right away!',
     },
   ],
 ]

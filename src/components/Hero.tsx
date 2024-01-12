@@ -95,11 +95,11 @@ export function Hero() {
               <br/>
               <span className="text-md">Automatically receive your Weekly Recap email every Sunday</span>
             </p>
-            <p className="mt-6 text-md text-gray-600">
+            {/* <p className="mt-6 text-md text-gray-600">
               <b>Want it earlier?</b> 
               <br/>
               Simply email <b>send@reread.news</b> to recieve it anytime you want
-            </p>
+            </p> */}
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
                 className='bg-cyan-500'
