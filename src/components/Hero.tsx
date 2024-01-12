@@ -93,7 +93,7 @@ export function Hero() {
             </p>
 
             <p className="mt-6 text-sm text-gray-600">
-              Want it sooner? No problem, just email <b>send@reread.news</b> to get it anytime!
+              Want it sooner? No problem, just email <b>early@reread.news</b> to get it anytime!
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button

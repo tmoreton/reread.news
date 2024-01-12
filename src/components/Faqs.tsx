@@ -16,7 +16,7 @@ const faqs = [
   [
     {
       question: 'What if I want to see my recap earlier?',
-      answer: 'No problem, just email send@reread.news to get it right away!',
+      answer: 'No problem, just email early@reread.news to get it right away!',
     },
   ],
 ]
