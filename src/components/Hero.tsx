@@ -83,10 +83,22 @@ export function Hero() {
               Save your links to <b className="text-cyan-500">ReRead</b> later
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyss, well never again!
+              How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyss, well never again! <b>It is easy to get started!</b>
             </p>
             <p className="mt-6 text-lg text-gray-600">
-              It is easy to start, just email any links to <b>save@reread.news</b>, that is it!
+              <b>Step #1</b>
+              <br/>
+              <span className="ml-5 text-md">Email any links to <b>save@reread.news</b></span>
+            </p>
+            <p className="text-lg text-gray-600">
+              <b>Step #2</b>
+              <br/>
+              <span className="ml-5 text-md">Automatically receive your Weekly Recap email every Sunday</span>
+            </p>
+            <p className="mt-6 text-md text-gray-600">
+              <b>Want it earlier?</b> 
+              <br/>
+              Simply email <b>send@reread.news</b> to recieve it anytime you want
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button

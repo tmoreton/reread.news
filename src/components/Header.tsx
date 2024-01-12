@@ -104,9 +104,6 @@ export function Header() {
                             <MobileNavLink href="/#secondary-features">
                               Features
                             </MobileNavLink>
-                            <MobileNavLink href="/#reviews">
-                              Reviews
-                            </MobileNavLink>
                             <MobileNavLink href="/#faqs">FAQs</MobileNavLink>
                           </div>
                         </Popover.Panel>

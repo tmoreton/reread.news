@@ -9,6 +9,6 @@ export function Logomark() {
 
 export function Logo() {
   return (
-    <Image src={logo} alt="" unoptimized  className="h-10 w-full"/>
+    <Image src={logo} alt="Reread.news" style={{width: '100%'}} className="h-10 w-full"/>
   )
 }
