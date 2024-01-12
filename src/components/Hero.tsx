@@ -86,20 +86,15 @@ export function Hero() {
               How many times have you sent yourself links via email, text or even just bookmarks only for them to be lost into the abyss, well never again! <b>It is easy to get started!</b>
             </p>
             <p className="mt-6 text-lg text-gray-600">
-              <b>Step #1</b>
-              <br/>
-              <span className="text-md">Email any links to <b>save@reread.news</b></span>
+              <b>Step #1</b> : <span className="text-md">Email any links to <b>save@reread.news</b></span>
             </p>
             <p className="text-lg text-gray-600">
-              <b>Step #2</b>
-              <br/>
-              <span className="text-md">Automatically receive your Weekly Recap email every Sunday</span>
+              <b>Step #2</b> : <span className="text-md">Automatically receive your Weekly Recap email every Sunday</span>
             </p>
-            {/* <p className="mt-6 text-md text-gray-600">
-              <b>Want it earlier?</b> 
-              <br/>
-              Simply email <b>send@reread.news</b> to recieve it anytime you want
-            </p> */}
+
+            <p className="mt-6 text-sm text-gray-600">
+              Want it sooner? No problem, just email <b>send@reread.news</b> to get it anytime!
+            </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <Button
                 className='bg-cyan-500'
