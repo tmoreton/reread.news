@@ -10,7 +10,7 @@ const faqs = [
   [
     {
       question: 'How do I see what links I sent?',
-      answer: 'Simply email ai@reread.news with a subject line of: <b>REREAD</b>',
+      answer: 'Simply email ai@reread.news with a subject line of: REREAD',
     },
   ],
   [
