@@ -3,6 +3,7 @@ import clsx from 'clsx'
 import { Analytics } from '@vercel/analytics/react';
 import '@/styles/tailwind.css'
 import { type Metadata } from 'next'
+import Script from 'next/script'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -29,6 +30,16 @@ export default function RootLayout({
       lang="en"
       className={clsx('h-full bg-gray-50 antialiased', inter.variable)}
     >
+      <Script src="https://www.googletagmanager.com/gtag/js?id=Y5M58FNNSX" />
+      <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+ 
+          gtag('config', 'Y5M58FNNSX');
+        `}
+      </Script>
       <body className="flex h-full flex-col">
         <div className="flex min-h-full flex-col">{children}</div>
         <Analytics />
